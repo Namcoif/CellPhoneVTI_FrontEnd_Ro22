@@ -4,10 +4,12 @@ import { MdFilterAlt } from 'react-icons/md'
 import CustomSelect from './../../../_sharecomponents/customselect/CustomSelect';
 import CustomButton from './../../../_sharecomponents/custombutton/CustomButton';
 import CustomTable from '../../../_sharecomponents/customtable/CustomTable';
+
+import './MProducts.css'
 function MProducts(props) {
     const option = ['a', 'b', 'c']
 
-    const theader = ['a', 'b', 'c']
+    const theader = ['STT', 'ID', 'Name','Price','Amount','']
     return (
         <div className='management-product'>
             <div className='mproduct-header'>

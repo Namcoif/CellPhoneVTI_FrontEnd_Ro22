@@ -2,7 +2,7 @@
     color: aliceblue;
     font-size: larger;
     position: fixed;
-    background-color: rgb(220, 34, 60);
+    background-color: rgb(78, 211, 245);
     width: 16rem;
     height: 100vh;
     top: 0;
@@ -25,7 +25,7 @@
    align-items: center;
    justify-content: center;
    height: 120px;
-   background-color: rgb(194, 5, 43);
+   background-color: rgb(73, 204, 236);
 
    /* box-shadow:  0 2px 2px 0 rgb(60 75 100 / 14%),
     0 3px 1px -2px rgb(60 75 100 / 12%),
@@ -38,7 +38,7 @@
     display: flex;
     /* text-align: center; */
     height: 56px;
-    background-color: rgb(194, 5, 43);
+    background-color: rgb(73, 204, 236);
 
     align-items: center;
     justify-content: center;

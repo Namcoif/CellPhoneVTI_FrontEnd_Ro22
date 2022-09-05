@@ -1,0 +1,20 @@
+.management-product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mproduct-header{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.mproduct-main{
+    width: 80%;
+    background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    font-family: 'Roboto', sans-serif;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    border: 2px solid #25b7c4;
+}
