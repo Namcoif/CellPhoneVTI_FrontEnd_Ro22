@@ -1,0 +1,15 @@
+.home-container{
+    display: flex;
+}
+.home-main{
+    position: sticky;
+    flex: 1;
+    transition: margin-left 350ms cubic-bezier(0.165, 0.84, 0.44, 1) 0ms;
+    margin-left: 16rem;
+    display: flex;
+    flex-direction: column;
+
+}
+.home-main.sidebar-close {
+    margin-left: 0;
+}
